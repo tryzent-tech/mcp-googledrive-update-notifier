@@ -47,7 +47,7 @@ Google moved OAuth settings to **Google Auth Platform** in 2025. Follow the left
 
 ### 2.2 Enable Drive API
 
-`Google Auth Platform → Data Access → APIs` → search **Google Drive API** → **Enable**. ([developers.google.com][1])
+`Google Auth Platform → Enable API → APIs` → search **Google Drive API** → **Enable**. ([developers.google.com][1])
 
 ### 2.3 OAuth consent screen
 
