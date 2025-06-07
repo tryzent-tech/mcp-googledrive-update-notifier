@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+composio-core
+composio-openai  
+composio_langchain  # wraps Composio & OpenAI tooling :contentReference[oaicite:9]{index=9}
