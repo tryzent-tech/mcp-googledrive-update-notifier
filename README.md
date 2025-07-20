@@ -1,6 +1,6 @@
 # mcp-googledrive-update-notifier
 
-GoogleDrive-UpdateNotifier turns Google Drive into an automated “change bulletin” service: every time **any** file on your Drive is added, removed, or edited, a FastAPI webhook receives the event from Composio, summarises the change, and dispatches a plain-text e-mail through Gmail. The stack uses Composio MCP triggers + LangChain function-calling + OpenAI + FastAPI; it needs no polling and deploys in under 15 minutes. ([developers.google.com][1])
+GoogleDrive-UpdateNotifier turns Google Drive into an automated “change bulletin” service: every time **any** file on your Drive is added, removed, or edited, a FastAPI webhook receives the event from Composio, summarises the change, and dispatches a plain-text e-mail through Gmail. The stack uses Composio MCP triggers + LangChain function-calling + FastAPI; it needs no polling and deploys in under 15 minutes. ([developers.google.com][1])
 
 ---
 
